@@ -1,5 +1,4 @@
-import Datacom from './Component2/MainPge';
-import DataTable from './Component/DataTable';
+import Datacom from './Component/MainPge';
 import "bootstrap/dist/css/bootstrap.min.css"
 const App = () => {
 
