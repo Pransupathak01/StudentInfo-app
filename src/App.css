@@ -49,7 +49,7 @@
   padding:0.4em ;
   background-color:black ;
   width: 100%;
-  height: 50px;
+  height: 45px;
   margin-bottom: 0.3em;
   display: flex;
   
@@ -88,6 +88,7 @@
   margin-left: 0.9em;
   background-color: blue;
 }
+
 .home{
   color: black;
   margin-left: 0.5em;

@@ -2,6 +2,7 @@ import { BrowserRouter as Router,Route,Link,Routes} from "react-router-dom";
 const Header = () =>{
     return(
         <div className="header">
+            
              
               <Router>
                 <Link to="/home" style={{marginRight: 10 }}> Home </Link><br/>
